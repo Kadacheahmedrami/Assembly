@@ -40,7 +40,7 @@ call output_msg  ; print(name)
 
 mov ebx ,0
 mov eax ,1
-int 0x80     ; exit main
+int 0x80     ; exit main fct
 
 
 
